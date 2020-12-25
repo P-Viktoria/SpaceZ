@@ -1,0 +1,23 @@
+header {
+    background-color: #222222;
+    color: white;
+}
+a "button yellow botton" {
+    background-color: #ffcb06;
+    color: black;
+}
+.super  {
+    background-color: #222222;
+    color: white;
+    font-weight: 600;
+}
+footer {
+    background-color: #131313;
+    color: #888
+}
+h3 {
+    color: white;
+}
+.conteiner {
+    align-content: center;
+}
